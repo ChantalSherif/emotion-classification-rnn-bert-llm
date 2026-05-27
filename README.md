@@ -35,7 +35,7 @@ The goal is not just to find the best accuracy, but to understand **when** and *
 ## Project Structure
 
 ```
-├── emotion_classification.ipynb   # Main notebook (all 6 parts)
+├── AMLproject3.ipynb   # Main notebook (all 6 parts)
 └── README.md
 ```
 
