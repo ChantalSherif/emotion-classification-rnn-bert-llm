@@ -75,13 +75,6 @@ The goal is not just to find the best accuracy, but to understand **when** and *
 
 ---
 
-# Emotion Classification: RNN vs. BERT vs. LLM Prompting
-
-A comparative study of three NLP learning paradigms on a 6-class emotion classification task using the [`dair-ai/emotion`](https://huggingface.co/datasets/dair-ai/emotion) dataset.
-
----
-
-## Overview
 
 This project benchmarks three fundamentally different approaches to text classification:
 
@@ -103,11 +96,6 @@ This project benchmarks three fundamentally different approaches to text classif
 | LLM (Few-Shot 8) | 23.14% | 0.1273 |
 | LLM (Chain-of-Thought) | 22.10% | 0.1486 |
 
----
-
-## Tech Stack
-
-`Python` · `PyTorch` · `HuggingFace Transformers` · `bitsandbytes` · `scikit-learn` · `Matplotlib` · `Seaborn`
 ---
 
 ## Setup & Requirements
